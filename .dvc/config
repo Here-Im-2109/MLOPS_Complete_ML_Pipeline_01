@@ -1,0 +1,4 @@
+[core]
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://dvc-s3-proj-013644998492-ap-south-2-an
